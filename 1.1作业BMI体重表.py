@@ -17,3 +17,5 @@ elif BMI<30:
     print("您的体重略胖！")
 else:
     print("您过度肥胖！")
+
+print("test")
